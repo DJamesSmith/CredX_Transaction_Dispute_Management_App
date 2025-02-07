@@ -1,4 +1,4 @@
-``# CredX - Transaction Dispute Management App
+# CredX - Transaction Dispute Management App
 
 A new Flutter project.
 
@@ -53,13 +53,13 @@ CredX is a Flutter-based simple app flow designed to help users manage their cre
 ## Screenshots
 
 <p>Home Screen</p>
-<img src="![Image](![Image](https://github.com/user-attachments/assets/3ba6ca4a-ac19-4bed-b034-30e036e174da))" data-canonical-src="" width="211" height="458" />
+<img src="https://github.com/user-attachments/assets/3ba6ca4a-ac19-4bed-b034-30e036e174da" data-canonical-src="" width="211" height="458" />
 <p>Transaction Details</p>
-<img src="![Image](![Image](https://github.com/user-attachments/assets/8c070461-c9a6-49a9-aa3b-203e6624d0eb))" data-canonical-src="" width="211" height="458" />
+<img src="https://github.com/user-attachments/assets/8c070461-c9a6-49a9-aa3b-203e6624d0eb" data-canonical-src="" width="211" height="458" />
 <p>Raise a dispute</p>
-<img src="![Image](![Image](https://github.com/user-attachments/assets/d1889dae-caee-419c-b934-1da5a64dbeb9))" data-canonical-src="" width="211" height="458" />
+<img src="https://github.com/user-attachments/assets/d1889dae-caee-419c-b934-1da5a64dbeb9" data-canonical-src="" width="211" height="458" />
 <p>Dispute Confirmation</p>
-<img src="![Image](![Image](https://github.com/user-attachments/assets/091f1326-0f91-4127-b3e8-165fc97960f0))" data-canonical-src="" width="211" height="458" />
+<img src="https://github.com/user-attachments/assets/091f1326-0f91-4127-b3e8-165fc97960f0" data-canonical-src="" width="211" height="458" />
 
 ## Technologies Used
 Flutter: A UI toolkit for building natively compiled applications.

@@ -44,11 +44,11 @@ CredX is a Flutter-based simple app flow designed to help users manage their cre
 
 * Demo: Raising transaction dispute
 
-[Watch Video](https://github.com/user-attachments/assets/a5836b48-6d58-4235-9598-befb56d139e7)
+![](https://github.com/user-attachments/assets/a5836b48-6d58-4235-9598-befb56d139e7)
 
 * Demo: Filtering using Transaction name and date
 
-[Watch Video](https://github.com/user-attachments/assets/5b14c141-673d-4a17-8f64-7ae74398be92)
+![](https://github.com/user-attachments/assets/5b14c141-673d-4a17-8f64-7ae74398be92)
 
 ## Screenshots
 
